@@ -28,6 +28,15 @@ market microstructure,
 econometrics, and time series analysis.
 
 Algorithmic trading includes statistical arbitrage, 
+  Algorithmic trading is not an attempt to make a trading profit. It is simply
+  a way to minimize the cost, market impact and risk in execution of an order.[
+
+  Algorithmic trading is a method of executing a large order (too large to fill
+  all at once) using automated pre-programmed trading instructions accounting
+  for variables such as time, price, and volume[1] to send small slices of the
+  order (child orders) out to the market over time.
+
+  A third of all European Union and United States stock trades in 2006 were driven by automatic programs, or algorithms.[
 
 Stress Test
 
@@ -120,6 +129,12 @@ Portfolio
   Portfolio optimization is the process of selecting the best portfolio (asset distribution), out the set of all portfolios being considered, according to some objective. 
 
 mutual funds
+
+  Most retirement savings, such as private pension funds or 401(k) and
+  individual retirement accounts in the US, are invested in mutual funds, the
+  most popular of which are index funds which must periodically "rebalance" or
+  adjust their portfolio to match the new prices and market capitalization of
+  the underlying securities in the stock or other index that they track.
 
   - is an investement vehicle
   - Pool of money
@@ -443,6 +458,12 @@ Risk management
   https://en.wikipedia.org/wiki/Greeks_(finance)
 
 HFT: High Frequency Trading
+  Characteristics
+    - highly sophisticated algorithms,
+    - specialized order types,
+    - co-location,
+    - very short-term investment horizons,
+    - and high cancellation rates for orders.
 
 Hedge fund:
   - alternative investments using pooled funds
@@ -496,6 +517,8 @@ Structured finance is a sector of finance that was created to help transfer risk
   funding sources to markets like housing and to transfer risk to buyers of
   structured products; 
 
+→ science/finance/
+→ science/finance/corporate
 → development/Data/science
 → development/Data/mining
 → science/mathematics/statistics
@@ -508,5 +531,6 @@ Structured finance is a sector of finance that was created to help transfer risk
 → development/Data/preparation
 → science/mathematics/statistics/modelling/regression-analysis
 → science/mathematics/finance/index (quantitiative finance)
+→ science/mathematics/probability/stochastic/
 
 
