@@ -4,6 +4,10 @@
   a resource with an economic value
 
 }
+{ Capital
+
+
+}
 { Debtor, Obligor, Promisor, 
 
   Debtor:
