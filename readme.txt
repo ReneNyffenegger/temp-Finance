@@ -51,7 +51,14 @@ Evaluate
   - price
   - risk
 
-Risk measures
+{ Abbreviations
+
+  EAD  Exposure at default    (see also LGD, PD )
+  LGD  Loss given default     (see also EAD, PD )
+  PD   Probability of default (see also EAD, LGD)
+
+}
+{ Risk measures
 
    Risk measurese are a major component in modern portfolio theory (MPT)
 
@@ -69,6 +76,9 @@ Risk measures
     - Standard deviation: the lower the standard deviation, the lower the volatility.
     - Sharpe ratio: Average return earned in excess of the risk-free rate per unit of volatility or total risk. 
 
+   Risk management
+      https://en.wikipedia.org/wiki/Greeks_(finance)
+
   Unsystematic risk:
     Aka: “nonsystematic risk,” "specific risk," "diversifiable risk" or "residual risk" 
 
@@ -83,6 +93,7 @@ Risk measures
 
     unsystematic risk can be reduced through diversification.
 
+}
 
 Benchmark:
    a standard against which the performance of a security, mutual fund or investment manager can be measured. 
@@ -229,7 +240,7 @@ Modern portfolio theory (MPT)
 
   MPT makes the assumption that investors are risk-averse, meaning they prefer a less risky portfolio to a riskier one for a given level of return. 
 
-  Modern portfolio theory, fathered by Harry Markowitz[1][2] in the 1950s,
+  Modern portfolio theory, fathered by Harry Markowitz in the 1950s,
   assumes that an investor wants to maximize a portfolio's expected return
   contingent on any given amount of risk, with risk measured by the standard
   deviation of the portfolio's rate of return, or by statistical dispersion.
@@ -286,7 +297,6 @@ moving average is used to form the basis of MACD (moving average convergence div
 
 Quantitative trading.
 
-
   first: quantiative analysis (number crunching) -> formulate strategy
 
   Works well in bull market.
@@ -296,7 +306,6 @@ Quantitative trading.
   Only as good as the model developed!
 
   Historically, these team members worked in the back offices, but as quant models became more commonplace, the back office is moving to the front office.
-
 
   Techniques
      - Monte Carlo methods and
@@ -454,8 +463,6 @@ Quantitative trading.
       • standard deviation
       • Sharpe ratio
 
-Risk management
-  https://en.wikipedia.org/wiki/Greeks_(finance)
 
 HFT: High Frequency Trading
   Characteristics
@@ -508,7 +515,9 @@ Securitization is the financial practice of pooling various types of
   mortgage receivables are called mortgage-backed securities (MBS), while those
   backed by other types of receivables are asset-backed securities (ABS).
 -
-Securitization is the method utilized by participants of structured finance to create the pools of assets that are used in the creation of the end product financial instruments.
+Securitization is the method utilized by participants of structured finance to
+create the pools of assets that are used in the creation of the end product
+financial instruments.
 -
 Structured finance is a sector of finance that was created to help transfer risk
   using complex legal and corporate entities. This transfer of risk, as applied
@@ -536,3 +545,8 @@ Structured finance is a sector of finance that was created to help transfer risk
 → science/mathematics/statistics/contingency-table
 
 
+{ switzerland
+  
+  https://en.wikipedia.org/wiki/Federal_Act_on_Banks_and_Savings_Banks#Revisions
+
+}

@@ -1,0 +1,3 @@
+
+The Sarbanes–Oxley Act of 2002 outlines in detail the exact structure of the reports that the SEC requires.
+  -> Financial reporting and disclosre requirements (Bank-regulation.txt)

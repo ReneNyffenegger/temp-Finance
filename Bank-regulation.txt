@@ -1,0 +1,72 @@
+
+Objectives: {
+  - prudential—to reduce the level of risk to which bank creditors are exposed
+    (i.e. to protect depositors)
+  - systemic risk reduction—to reduce the risk of disruption resulting from
+    adverse trading conditions for banks causing multiple or major bank
+    failures[4]
+  - to avoid misuse of banks—to reduce the risk of banks being used for
+    criminal purposes, e.g. laundering the proceeds of crime
+  - to protect banking confidentiality
+  - credit allocation—to direct credit to favored sectors
+  - it may also include rules about treating customers fairly and having
+    corporate social responsibility.
+
+}
+
+Components {
+
+  Bank regulation is a complex process and generally consists of two components:
+    - licensing (sets certain requirements for starting a new bank., and
+    - supervision ( an extension of the licence-granting process and consists of supervision of the bank's activities by a government regulatory body)
+
+}
+{ Instruments and requirements
+
+  { Capital requirements
+
+    The capital requirement sets a framework on how banks must handle their
+       capital
+    in relation to their
+      assets. 
+
+  }
+  { Reserve requirements
+
+    The reserve requirement sets the minimum reserves each bank must hold to demand deposits and banknotes. 
+
+    This type of regulation has lost the role it once had, as the emphasis has
+    moved toward capital adequacy, and in many countries there is no minimum
+    reserve ratio.
+
+
+  }
+  { Corporate govenance
+
+    Corporate governance requirements are intended to encourage the bank to be
+    well managed, and is an indirect way of achieving other objectives
+
+  }
+  { Financial reporting and disclosure requirements
+
+    Among the most important regulations that are placed on banking institutions is the requirement for disclosure of the bank's finances.
+
+    In the US for example the Securities and Exchange Commission (SEC) requires
+    management to prepare annual financial statements according to a financial
+    reporting standard, 
+
+    The Sarbanes–Oxley Act of 2002 outlines in detail the exact structure of the reports that the SEC requires.
+
+  }
+  { Credit rating requirement
+
+    Banks may be required to obtain and maintain a current credit rating from an approved credit rating agency, and to disclose it to investors and prospective investors. 
+    
+  }
+  { Large exposures restrictions
+
+    Banks may be restricted from having imprudently large exposures to individual counterparties or groups of connected counterparties
+
+  }
+
+}

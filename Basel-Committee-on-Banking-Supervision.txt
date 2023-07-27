@@ -1,0 +1,89 @@
+Basel Comittee on banking Supervsion = BCBS
+
+objective:
+   - enhance understanding of key supervisory issues and
+   - improve the quality of banking supervision worldwide. 
+
+
+The committee provides a forum for regular cooperation on banking supervisory matters. 
+-
+The committee's Secretariat is located at the Bank for International Settlements (BIS) in Basel.
+(BIS and the Basel Committee remain two distinct entities.)
+
+
+
+1974: established by the central bank governors of the Group of Ten (G10) countries (+ Luxembourg and Spain)
+1988: Publication of the *Basel Capital Accords* (= Basel I?)
+2009: Expansion of membership (all of the other G-20 major economies are represented, as well as some other major banking locales such as Hong Kong and Singapore.)
+2014: 2nd(?) expansion of membership
+2019: 45 members from 28 jurisdictions, consisting of central banks and authorities with responsibility of banking regulation.[3]
+
+
+{ Basel Accords
+
+  The Basel Accords refer to the banking supervision accords (recommendations on banking regulations) issued by BCBS.
+
+  { 1988: Basel I -  Basel Capital Accord
+
+    Covers capital requirements for credit risk. The Accord was enforced by law in the Group of Ten (G-10) countries in 1992.
+
+    The Basel Accord was augmented in 1996 with a framework for market risk,
+    which included both a standardised approach and a modelled approach, the
+    latter based on value at risk.[1]
+
+  }
+  { Basel II
+
+    Published in 2004, Basel II was a new capital framework to supersede the
+    Basel I framework. It introduced "three pillars":
+     - Minimum capital requirements, which sought to develop and expand the
+       standardised rules set out in the 1988 Accord;
+     - Supervisory review of an institution's capital adequacy and internal
+       assessment process;
+     - Effective use of disclosure as a lever to strengthen market discipline
+       and encourage sound banking practices.
+
+    Capital requirements for operational risk were introduced for the first time.
+
+  }
+  { Basel IA
+
+    Basel IA was proposed as an intermediate between the then current Basel I accord and the Basel II accord, which was being implemented at the time.
+
+    On July 20, 2007 by a deal between the various US banking regulators (The
+    Federal Reserve, the Office of the Comptroller of the Currency, the Office
+    of Thrift Supervision and the Federal Deposit Insurance Corporation) it was
+    decided to drop the proposed Basel IA and allow Basel II Standardised in
+    its place.
+
+  }
+  { Basel III (2010/2011)
+
+    Following the financial crisis of 2007–2008, the Basel III reforms were published in 2010/11. 
+
+    The standards set
+      - new definitions of capital,
+      - higher capital ratio requirements, and
+      - a leverage ratio requirement as a "back stop" measure.
+
+    Risk-based capital requirements (RWAs) for CVA risk and interest rate risk
+    in the banking book were introduced for the first time, along with a large
+    exposures framework, a revised securitisation framework, 
+    and a standardised approach to counterparty credit risk (SA-CCR) to measure
+    exposure to derivative transactions. A specific framework for exposures to
+    central counterparty clearing was introduced.
+
+
+
+  }
+  { Basel 3.1 / Basel IV
+
+    The new standards that come into effect in January 2023, that is, the FRTB
+    and Basel 3.1, are sometimes referred to as Basel IV. However, the
+    secretary general of the Basel Committee said, in a 2016 speech, that he
+    did not believe the changes are substantial enough to warrant that title
+    and the Basel Committee refer to only three Basel Accords
+
+  }
+
+}
