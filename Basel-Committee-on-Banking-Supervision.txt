@@ -45,6 +45,12 @@ The committee's Secretariat is located at the Bank for International Settlements
 
     Capital requirements for operational risk were introduced for the first time.
 
+    { EAD (exposure at default)
+     
+      Is a parameter used in the calculation of economic capital or regulatory capital under Basel II for a banking institution. It
+
+    }
+
   }
   { Basel IA
 

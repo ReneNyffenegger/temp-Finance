@@ -1,4 +1,14 @@
 
+A key part of bank regulation is to make sure that firms operating in the
+industry are prudently managed.
+-
+The aim is to protect the firms themselves, their customers, the government
+(which is liable for the cost of deposit insurance in the event of a bank
+failure) and the economy, by establishing rules to make sure that these
+institutions hold enough capital to ensure continuation of a safe and efficient
+market and are able to withstand any foreseeable problems.
+
+
 Objectives: {
   - prudential—to reduce the level of risk to which bank creditors are exposed
     (i.e. to protect depositors)
@@ -25,10 +35,36 @@ Components {
 
   { Capital requirements
 
+    aka: regulatory capital, capital adequacy or capital base
+
+    Capital requirements is the amount of capital a bank or other financial
+    institution has to have as required by its financial regulator.
+
     The capital requirement sets a framework on how banks must handle their
        capital
     in relation to their
       assets. 
+
+    Capital requirements should not be confused with reserve requirements
+   (which govern the assets side of a bank's balance sheet—in particular, the
+   proportion of its assets it must hold in cash or highly-liquid assets.)
+
+  }
+  { Economic capital
+
+    Economic capital can be thought of as the capital level bank shareholders
+    would choose in the absence of capital regulation
+
+    Economic capital (ecap) is the amount of risk capital, assessed on a
+    realistic basis, which a firm requires to cover the risks that it is
+    running or collecting as a going concern, such as market risk, credit risk,
+    legal risk, and operational risk.
+
+    It is the amount of money that is needed to secure survival in a worst-case
+    scenario. Firms and financial services regulators should then aim to hold
+    risk capital of an amount equal at least to economic capital.
+
+
 
   }
   { Reserve requirements

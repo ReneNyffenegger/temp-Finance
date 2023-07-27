@@ -1,0 +1,20 @@
+
+Specific banking frameworks
+  Market risk
+    FRTB
+    Internal models approach (IMA)
+    Standardized approach (market risk)
+  Credit risk
+    Internal ratings-based approach (IRB)
+    Foundation IRB (F-IRB)
+    Advanced IRB (A-IRB)
+    Standardized approach (credit risk)
+  Counterparty credit risk
+    Current exposure method (CEM)
+    Standardised method (SM)
+    Standardized approach (counterparty credit risk) (SA-CCR)
+  Operational risk
+    Advanced measurement approach (AMA)
+    Basic indicator approach
+    Standardized approach (operational risk)
+    Standardised measurement approach (SMA)

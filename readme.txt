@@ -1,4 +1,80 @@
 
+{ Asset
+
+  a resource with an economic value
+
+}
+{ Debtor, Obligor, Promisor, 
+
+  Debtor:
+    Owns money
+    one in debt
+    one who owes a debt
+
+  Obligor;
+    is the obligated party (bond issuer, borrower, debtor, insurer, etc.) who
+    has an obligation to repay a debt, make a payment, do something, or to
+    refrain from doing something, under the terms of an agreement.
+    -
+    Also called promisor.
+
+
+  { Contracts
+
+    Contracts create rights and duties
+
+    By an assignment,
+      - an obligee (one who has the right to receive a contract benefit) transfers this right
+      - owed by the obligor (the one who has a duty to perform) to
+      - a third person (assignee);
+        the obligee then becomes an assignor (one who makes an assignment).
+  }
+
+}
+{ EAD - Exposure at default
+
+  Exposure at default or (EAD) is a parameter used in the calculation of
+  economic capital or regulatory capital under Basel II for a banking
+  institution.
+  - 
+  In general, EAD is seen as an estimation of the extent to which a bank may be
+  exposed to a counterparty in the event of, and at the time of, that
+  counterparty’s default. 
+  -
+  EAD is equal to the current amount outstanding in case of
+    fixed exposures such as term loans.
+
+  It can be defined as the gross exposure under a facility upon default of an obligor.[1]
+
+  Outside of Basel II, the concept is sometimes known as Credit Exposure (CE).
+
+  Under the advanced approach (A-IRB) banks enjoy greater flexibility on how they calculate EAD.
+
+  The EAD is closely linked to the expected loss, which is defined as the
+  product of the EAD, the probability of default (PD) and the loss given
+  default (LGD).
+
+
+}
+{ Abbreviations
+
+  CF   Conversion Factor
+  EAD  Exposure at default    (see also LGD, PD )
+  ecap economic capital
+  LEQ  Loan equivalent
+  LGD  Loss given default     (see also EAD, PD )
+  PD   Probability of default (see also EAD, LGD)
+
+}
+{ F-IRB vs A-IRB
+
+  F-IRB: Foundation approach
+  A-RIB: Advanced approach
+
+  Under the advanced approach (A-IRB) banks enjoy greater flexibility on how they calculate EAD.
+
+
+}
 
 One of the principal mathematical tools of quantitative finance is stochastic calculus.
 
@@ -27,7 +103,7 @@ market microstructure,
 
 econometrics, and time series analysis.
 
-Algorithmic trading includes statistical arbitrage, 
+{ Algorithmic trading includes statistical arbitrage, 
   Algorithmic trading is not an attempt to make a trading profit. It is simply
   a way to minimize the cost, market impact and risk in execution of an order.[
 
@@ -38,6 +114,7 @@ Algorithmic trading includes statistical arbitrage,
 
   A third of all European Union and United States stock trades in 2006 were driven by automatic programs, or algorithms.[
 
+}
 Stress Test
 
 Economical capital analysis
@@ -51,13 +128,6 @@ Evaluate
   - price
   - risk
 
-{ Abbreviations
-
-  EAD  Exposure at default    (see also LGD, PD )
-  LGD  Loss given default     (see also EAD, PD )
-  PD   Probability of default (see also EAD, LGD)
-
-}
 { Risk measures
 
    Risk measurese are a major component in modern portfolio theory (MPT)
@@ -104,14 +174,13 @@ Securities
   - money market
   - other asset
 
-Trading strategy is a fixed plan that is designed to achieve a profitable
+{ Trading strategy is a fixed plan that is designed to achieve a profitable
   return by going long or short in markets. The main reasons that a properly
   researched trading strategy helps are its verifiability, quantifiability,
   consistency, and objectivity.
 Trading strategies are based on fundamental or technical analysis, or both. T
 
-Asset
-  a resource with an economic value
+{
 
 
 Dispersion is a statistical term describing the size of the range of values expected for a particular variable. 
