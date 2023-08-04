@@ -1,0 +1,17 @@
+An Annuity is a loan with a monthly repayment, which is always the same amount.
+In other words you pay each month the same sum.
+
+   The alternative is a linear mortgage.
+   -
+   In a linear mortgage your principal
+   repayment remains the same. Therefore your monthly payments goes down months
+   after months. This mortgage form is rarely used, because for most people
+   incomes increase over time
+
+This annuity payment consists of both interest and principal repayment. 
+
+Die Annuität ist ein über die Laufzeit gleichbleibender regelmäßiger Betrag,
+der (etwa monatlich) zur Tilgung eines Darlehens zurückbezahlt wird. Die
+Annuität setzt sich zusammen aus einem Anteil zur Kapitaltilgung T (Abbau der
+Schuld) und einer Zinszahlung P, die für die Rückzahlung der Zinsen anfällt.
+
